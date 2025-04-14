@@ -51,7 +51,7 @@
 - FoundationStereo: Zero-Shot Stereo Matching, CVPR2025. [[Paper](https://arxiv.org/abs/2501.09898) | [Project](https://nvlabs.github.io/FoundationStereo/) | [Code](https://github.com/NVlabs/FoundationStereo/)]
 
 
-- FoundationStereo: Zero-Shot Stereo Matching, CVPR2025. [[Paper](https://arxiv.org/abs/2501.01423) | [Code](https://github.com/hustvl/LightningDiT)]
+- Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2501.01423) | [Code](https://github.com/hustvl/LightningDiT)]
 
 
 - Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis, CVPR2025. [[Paper](https://arxiv.org/abs/2412.04431) | [Project](https://foundationvision.github.io/infinity.project/) | [Code](https://github.com/FoundationVision/Infinity)]
@@ -65,7 +65,22 @@
 
 
 
-- MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds, CVPR2025. [[Paper](https://arxiv.org/abs/2412.06974) | [Project](https://mv-dust3rp.github.io/) | [Code](https://github.com/facebookresearch/mvdust3r)]
+- TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, CVPR2025. [[Paper](https://arxiv.org/abs/2503.19901) | [Project](https://liangpan99.github.io/TokenHSI/) | [Code](https://github.com/liangpan99/TokenHSI)]
+
+
+
+- Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2412.03283) | [Code](https://github.com/and-mill/semantic-forgery)]
+
+
+
+- Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2503.01774) | [Project](https://research.nvidia.com/labs/toronto-ai/difix3d/)
+
+
+- DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2501.18590) | [Project](https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/)
+
+
+
+- TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, CVPR2025. [[Paper](https://arxiv.org/abs/2503.19901) | [Project](https://liangpan99.github.io/TokenHSI/) | [Code](https://github.com/liangpan99/TokenHSI)]
 
 
 
