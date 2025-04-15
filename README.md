@@ -84,3 +84,8 @@
 
 
 
+- OpenING A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation, CVPR2025. [[Paper](https://arxiv.org/pdf/2411.18499) | [Project](https://opening-benchmark.github.io/) | [Code](https://github.com/LanceZPF/OpenING)]
+
+
+
+- RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges, CVPR2025. [[Paper](https://arxiv.org/abs/2502.19955)
