@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-16 10:05:06
+ * @LastEditTime: 2025-04-17 19:20:02
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -131,3 +131,5 @@
 - Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks, CVPR2025. [[Paper](https://arxiv.org/abs/2503.08269) | [Code](https://github.com/April-yy/Adv-CPG)]
 
 
+
+- TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion, CVPR2025. [[Paper](https://arxiv.org/abs/2504.11773) | [Code](https://github.com/RaymondWang987/TacoDepth)]
