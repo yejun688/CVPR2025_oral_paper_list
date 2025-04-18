@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-17 19:20:02
+ * @LastEditTime: 2025-04-18 17:26:31
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -133,3 +133,9 @@
 
 
 - TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion, CVPR2025. [[Paper](https://arxiv.org/abs/2504.11773) | [Code](https://github.com/RaymondWang987/TacoDepth)]
+
+
+- Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models, CVPR2025. [[Paper](https://arxiv.org/abs/2409.17146) | [Blog](https://allenai.org/blog/molmo)  | [Code](https://github.com/allenai/molmo)]
+
+
+- Continuous 3D Perception Model with Persistent State, CVPR2025. [[Paper](https://arxiv.org/abs/2501.12387) | [Project](https://cut3r.github.io/)  | [Code](https://github.com/CUT3R/CUT3R)]
