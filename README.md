@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-19 03:33:08
+ * @LastEditTime: 2025-04-19 23:19:50
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -81,10 +81,10 @@
 
 
 
-- Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2503.01774) | [Project](https://research.nvidia.com/labs/toronto-ai/difix3d/)
+- Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2503.01774) | [Project](https://research.nvidia.com/labs/toronto-ai/difix3d/)]
 
 
-- DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2501.18590) | [Project](https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/)
+- DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2501.18590) | [Project](https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/)]
 
 
 
@@ -96,7 +96,7 @@
 
 
 
-- RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges, CVPR2025. [[Paper](https://arxiv.org/abs/2502.19955)
+- RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges, CVPR2025. [[Paper](https://arxiv.org/abs/2502.19955)]
 
 
 
@@ -141,25 +141,26 @@
 - Continuous 3D Perception Model with Persistent State, CVPR2025. [[Paper](https://arxiv.org/abs/2501.12387) | [Project](https://cut3r.github.io/)  | [Code](https://github.com/CUT3R/CUT3R)]
 
 
-- SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing, CVPR2025. [[Paper](https://arxiv.org/abs/2409.18127) | [Project](https://hongfz16.github.io/projects/EgoLM) 
+- SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing, CVPR2025. [[Paper](https://arxiv.org/abs/2409.18127) | [Project](https://hongfz16.github.io/projects/EgoLM)] 
 
 
-- Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key, CVPR2025. [[Paper](https://arxiv.org/abs/2501.09695) | [Project](https://opa-dpo.github.io/)  | [Code](https://github.com/zhyang2226/OPA-DPO]
+- Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key, CVPR2025. [[Paper](https://arxiv.org/abs/2501.09695) | [Project](https://opa-dpo.github.io/)  | [Code](https://github.com/zhyang2226/OPA-DPO)]
 
 
 - Birth and Death of a Rose, CVPR2025. [[Paper](https://arxiv.org/abs/2412.05278) | [Project](https://chen-geng.com/rose4d)  | [Code](https://github.com/zhyang2226/OPA-DPO)]
 
 
-- Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content, CVPR2025. [[Paper](https://arxiv.org/abs/2503.02357)  | [Code](https://github.com/zzc-1998/Q-Eval]
+- Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content, CVPR2025. [[Paper](https://arxiv.org/abs/2503.02357)  | [Code](https://github.com/zzc-1998/Q-Eval)]
 
 
-- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detectort, CVPR2025. [[Paper](https://arxiv.org/abs/2503.20188) | [Code](https://github.com/CHELSEA234/M2F2_Det]
+- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detectort, CVPR2025. [[Paper](https://arxiv.org/abs/2503.20188) | [Code](https://github.com/CHELSEA234/M2F2_Det)]
 
 
-- Exploring CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation, CVPR2025. [[Paper](https://arxiv.org/pdf/2503.20826) | [Code](https://github.com/zwyang6/ExCEL]
+- Exploring CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation, CVPR2025. [[Paper](https://arxiv.org/pdf/2503.20826) | [Code](https://github.com/zwyang6/ExCEL)]
 
 
 - LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models, CVPR2025. [[Paper](https://arxiv.org/abs/2503.16843)]
 
 
-- FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity, CVPR2025. [[Paper](https://www.cs.emory.edu/~jyang71/files/fedspa.pdf)
+- FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity, CVPR2025. [[Paper](https://www.cs.emory.edu/~jyang71/files/fedspa.pdf)]
+
