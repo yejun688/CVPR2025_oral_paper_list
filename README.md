@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-21 19:04:35
+ * @LastEditTime: 2025-04-22 23:45:49
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -164,3 +164,12 @@
 
 - FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity, CVPR2025. [[Paper](https://www.cs.emory.edu/~jyang71/files/fedspa.pdf)]
 
+
+- Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces, CVPR2025. [[Paper](https://arxiv.org/abs/2412.14171) | [Project](https://vision-x-nyu.github.io/thinking-in-space.github.io/)  | [Code](https://github.com/vision-x-nyu/thinking-in-space)]
+
+
+- Video-XL Family: Efficient VLMs for Extremely Long Video Understanding, CVPR2025. [[Paper](https://arxiv.org/pdf/2409.14485)| [Code](https://github.com/VectorSpaceLab/Video-XL)]
+
+
+
+- Neural Inverse Rendering from Propagating Light , CVPR2025. [[Paper](https://arxiv.org/2404.06493v2)]
