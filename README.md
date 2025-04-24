@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-23 00:46:06
+ * @LastEditTime: 2025-04-24 10:26:20
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -173,3 +173,6 @@
 
 
 - Neural Inverse Rendering from Propagating Light , CVPR2025. [[Paper](https://arxiv.org/2404.06493v2)]
+
+
+- MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision, CVPR2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://wangrc.site/MoGePage/) | [Code](https://github.com/microsoft/moge)]
