@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-24 10:26:20
+ * @LastEditTime: 2025-04-29 19:51:05
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -118,7 +118,7 @@
 
 
 
-- Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key, CVPR2025. [[Paper](https://arxiv.org/abs/2501.09695) | [Project](https://opa-dpo.github.io/) | [Code](https://github.com/zhyang2226/OPA-DPO)]
+- Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key, CVPR2025. [[Paper](https://arxiv.org/abs/2501.09695) | [Project](https://opa-dpo.github.io/) | [Code](https://github.com/zhyang2226/OPA-DPO)]]
 
 
 
@@ -176,3 +176,76 @@
 
 
 - MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision, CVPR2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://wangrc.site/MoGePage/) | [Code](https://github.com/microsoft/moge)]
+
+
+- Motion Prompting: Controlling Video Generation with Motion Trajectories, CVPR2025. [[Paper](https://arxiv.org/abs/2412.02700) | [Project](https://motion-prompting.github.io/)]
+
+
+- Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise, CVPR2025. [[Paper](https://arxiv.org/abs/2501.08331) | [Project](https://eyeline-research.github.io/Go-with-the-Flow/) | [Code](https://github.com/Eyeline-Research/Go-with-the-Flow)]
+
+
+- LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping, CVPR2025. [[Paper](https://arxiv.org/abs/2504.08902) | [Project](https://lookingglass-lpw.github.io/)]
+
+
+- LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions, CVPR2025. [[Paper](https://www.arxiv.org/abs/2411.16760) |[Code](https://github.com/NightMachinery/LibraGrad)]
+
+
+- Do We Always Need the Simplicity Bias? Looking for Optimal Inductive Biases in the Wild, CVPR2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://arxiv.org/abs/2503.10065))]
+
+
+- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector
+, CVPR2025. [[Paper](https://arxiv.org/abs/2503.20188)]
+
+
+- CleanDIFT: Diffusion Features without Noise, CVPR2025. [[Paper](https://arxiv.org/abs/2412.03439) | [Project](https://compvis.github.io/cleandift/) | [Code](https://github.com/CompVis/cleandift)]
+
+
+- Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather, CVPR2025.]
+
+
+- DiffFNO: Diffusion Fourier Neural Operator, CVPR2025. [[Paper](https://arxiv.org/abs/2411.099115)]
+
+
+- Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining, CVPR2025
+
+
+- CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner, CVPR2025. [[Paper](https://arxiv.org/pdf/2405.14979) | [Project](https://craftsman3d.github.io/) | [Code](https://github.com/wyysf-98/CraftsMan3D)]
+
+
+- Reanimating Images using Neural Representations of Dynamic Stimuli, CVPR2025. [[Paper](https://arxiv.org/abs/2406.02659)]
+
+
+- EgoLM: Multi-Modal Language Model of Egocentric Motions, CVPR2025. [[Paper](https://arxiv.org/abs/2409.18127) | [Project](https://hongfz16.github.io/projects/EgoLM)]
+
+
+- MEGA: Masked Generative Autoencoder for Human Mesh Recovery, CVPR2025. [[Paper](https://arxiv.org/abs/2405.18839)]
+
+
+- Descriptor-In-Pixel : Point-Feature Tracking for Pixel Processor Arraysr, CVPR2025.
+
+
+- Temporally Consistent Object-Centric Learning by Contrasting Slots, CVPR2025. [[Paper](https://arxiv.org/abs/2412.14295) | [Project](https://slotcontrast.github.io/) | [Code](https://github.com/martius-lab/slotcontrast)]
+
+
+- Temporal Alignment-Free Video Matching for Few-shot Action Recognition, CVPR2025. [[Paper](https://arxiv.org/abs/2504.05956) | [Project](https://slotcontrast.github.io/) | [Code](https://github.com/leesb7426/TEAM)]
+
+
+- One Category One Prompt: Dataset Distillation using Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/pdf/2403.07142v1)]
+
+
+- IceDiff: High Resolution and High-Quality Sea Ice Forecasting with Generative Diffusion Prior, CVPR2025. [[Paper](https://arxiv.org/abs/2410.09111)]
+
+
+- Efficient Test-time Adaptive Object Detection via Sensitivity-Guided Pruning, CVPR2025. [[Paper](https://xueyangfu.github.io/paper/2025/SGP_CVPR_25.pdf)]
+
+
+- Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation, CVPR2025.]
+
+
+- Identifying and Mitigating Position Bias of Multi-image Vision-Language Models, CVPR2025. [Paper](https://arxiv.org/abs/2503.13792)]
+
+
+- From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons, CVPR2025. [Paper](https://arxiv.org/abs/2412.08442)]
+
+
+- Temporal Alignment-Free Video Matching for Few-shot Action Recognition, CVPR2025. [[Paper](https://arxiv.org/abs/2504.05956) | [Project](https://slotcontrast.github.io/) | [Code](https://github.com/leesb7426/TEAM)]
