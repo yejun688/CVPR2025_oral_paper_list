@@ -137,8 +137,6 @@
 - Continuous 3D Perception Model with Persistent State, CVPR2025. [[Paper](https://arxiv.org/abs/2501.12387) | [Project](https://cut3r.github.io/)  | [Code](https://github.com/CUT3R/CUT3R)]
 
 
-- SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing, CVPR2025. [[Paper](https://arxiv.org/abs/2409.18127) | [Project](https://hongfz16.github.io/projects/EgoLM)] 
-
 
 - Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key, CVPR2025. [[Paper](https://arxiv.org/abs/2501.09695) | [Project](https://opa-dpo.github.io/) | [Code](https://github.com/zhyang2226/OPA-DPO)]
 
