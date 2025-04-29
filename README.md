@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-29 20:11:54
+ * @LastEditTime: 2025-04-29 20:48:34
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -96,10 +96,6 @@
 
 
 
-- RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges, CVPR2025. [[Paper](https://arxiv.org/abs/2502.19955)]
-
-
-
 - RandAR: Decoder-only Autoregressive Visual Generation in Random Orders, CVPR2025. [[Paper](https://arxiv.org/abs/2412.01827) | [Project](https://rand-ar.github.io/) | [Code](https://github.com/ziqipang/RandAR)]
 
 
@@ -169,7 +165,6 @@
 
 
 - Video-XL Family: Efficient VLMs for Extremely Long Video Understanding, CVPR2025. [[Paper](https://arxiv.org/pdf/2409.14485)| [Code](https://github.com/VectorSpaceLab/Video-XL)]
-
 
 
 - Neural Inverse Rendering from Propagating Light , CVPR2025. [[Paper](https://arxiv.org/2404.06493v2)]
@@ -276,4 +271,49 @@
 
 - DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models, CVPR2025. [Paper](https://arxiv.org/abs/2503.01645)]
 
+
+- UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming, CVPR2025. [Paper](https://arxiv.org/abs/2307.16375]
+
+
+- Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning, CVPR2025. [[Paper](https://arxiv.org/abs/2503.06457) |[Code](https://github.com/WeiDai-David/2025CVPR_GGEUR)]
+
+- Enhancing Diversity for Data-free Quantization, CVPR2025.
+
+- TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model, CVPR2025. [[Paper](https://arxiv.org/abs/2412.06011) |[Code](https://github.com/Melon-Xu/TopoCellGen)]
+
+
+- Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation, CVPR2025. [[Paper](https://arxiv.org/abs/2503.04639)]
+
+- Enhancing Diversity for Data-free Quantization, CVPR2025, CVPR2025.
+
+- Time of the Flight of the Gaussians:Fast and Accurate Dynamic Time-of-Flight Radiance Field, CVPR2025. [Paper](https://ranrandy.github.io/data/research/2024-11-totfotg_tmp.pdf]
+
+
+- Zero-Shot Monocular Scene Flow Estimation in the Wild, CVPR2025. [[Paper](https://arxiv.org/abs/2501.10357) | [Project](https://research.nvidia.com/labs/lpr/zero_msf//)]
+
+
+- DNF: Unconditional 4D Generation with Dictionary-based Neural Fields, CVPR2025. [[Paper](https://arxiv.org/abs/2412.05161) | [Project](https://xzhang-t.github.io/project/DNF/)]
+
+
+- CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2411.18613) | [Project](https://cat-4d.github.io/)]
+
+
+- Effective SAM Combination for Open-Vocabulary Semantic Segmentation, CVPR2025. [[Paper](https://arxiv.org/abs/2411.14723) | [Project](https://cat-4d.github.io/)]
+
+
+- Removing Reflections from RAW Photos, CVPR2025. [[Paper](https://arxiv.org/abs/2404.14414)]
+
+
+- Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens, CVPR2025. [[Paper](https://arxiv.org/abs/2504.14666) | [Project](https://ddt-llama.github.io/)]
+
+
+- Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding, CVPR2025.
+
+
+- Towards Vision Language Models For Extra-Long Video Understanding, CVPR2025.
+
+
+- SEAL: Semantic Attention Learning for Long Video Representation, CVPR2025. [[Paper](https://arxiv.org/abs/2412.01798)]
+
+- Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval, CVPR2025.
 
