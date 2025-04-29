@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-29 20:57:21
+ * @LastEditTime: 2025-04-29 22:33:07
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -114,7 +114,7 @@
 
 
 
-- Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key, CVPR2025. [[Paper](https://arxiv.org/abs/2501.09695) | [Project](https://opa-dpo.github.io/) | [Code](https://github.com/zhyang2226/OPA-DPO)]]
+- Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key, CVPR2025. [[Paper](https://arxiv.org/abs/2501.09695) | [Project](https://opa-dpo.github.io/) | [Code](https://github.com/zhyang2226/OPA-DPO)]
 
 
 
@@ -183,7 +183,7 @@
 - LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions, CVPR2025. [[Paper](https://www.arxiv.org/abs/2411.16760) |[Code](https://github.com/NightMachinery/LibraGrad)]
 
 
-- Do We Always Need the Simplicity Bias? Looking for Optimal Inductive Biases in the Wild, CVPR2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://arxiv.org/abs/2503.10065))]
+- Do We Always Need the Simplicity Bias? Looking for Optimal Inductive Biases in the Wild, CVPR2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://arxiv.org/abs/2503.10065)]
 
 
 - Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector
@@ -193,7 +193,7 @@
 - CleanDIFT: Diffusion Features without Noise, CVPR2025. [[Paper](https://arxiv.org/abs/2412.03439) | [Project](https://compvis.github.io/cleandift/) | [Code](https://github.com/CompVis/cleandift)]
 
 
-- Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather, CVPR2025.]
+- Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather, CVPR2025.
 
 
 - DiffFNO: Diffusion Fourier Neural Operator, CVPR2025. [[Paper](https://arxiv.org/abs/2411.099115)]
@@ -232,13 +232,13 @@
 - Efficient Test-time Adaptive Object Detection via Sensitivity-Guided Pruning, CVPR2025. [[Paper](https://xueyangfu.github.io/paper/2025/SGP_CVPR_25.pdf)]
 
 
-- Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation, CVPR2025.]
+- Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation, CVPR2025.
 
 
-- Identifying and Mitigating Position Bias of Multi-image Vision-Language Models, CVPR2025. [Paper](https://arxiv.org/abs/2503.13792)]
+- Identifying and Mitigating Position Bias of Multi-image Vision-Language Models, CVPR2025. [[Paper](https://arxiv.org/abs/2503.13792)]
 
 
-- From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons, CVPR2025. [Paper](https://arxiv.org/abs/2412.08442)]
+- From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons, CVPR2025. [[Paper](https://arxiv.org/abs/2412.08442)]
 
 
 - Language-Guided Image Tokenization for Generation, CVPR2025. [[Paper](https://arxiv.org/abs/2412.05796) | [Project](https://kaiwenzha.github.io/textok/)]
@@ -267,10 +267,10 @@
 
 - Opportunistic Single-Photon Time of Flight, CVPR2025.
 
-- DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models, CVPR2025. [Paper](https://arxiv.org/abs/2503.01645)]
+- DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models, CVPR2025. [[Paper](https://arxiv.org/abs/2503.01645)]
 
 
-- UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming, CVPR2025. [Paper](https://arxiv.org/abs/2307.16375]
+- UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming, CVPR2025. [[Paper](https://arxiv.org/abs/2307.16375)]
 
 
 - Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning, CVPR2025. [[Paper](https://arxiv.org/abs/2503.06457) |[Code](https://github.com/WeiDai-David/2025CVPR_GGEUR)]
@@ -282,9 +282,8 @@
 
 - Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation, CVPR2025. [[Paper](https://arxiv.org/abs/2503.04639)]
 
-- Enhancing Diversity for Data-free Quantization, CVPR2025, CVPR2025.
 
-- Time of the Flight of the Gaussians:Fast and Accurate Dynamic Time-of-Flight Radiance Field, CVPR2025. [Paper](https://ranrandy.github.io/data/research/2024-11-totfotg_tmp.pdf]
+- Time of the Flight of the Gaussians:Fast and Accurate Dynamic Time-of-Flight Radiance Field, CVPR2025. [[Paper](https://ranrandy.github.io/data/research/2024-11-totfotg_tmp.pdf)]
 
 
 - Zero-Shot Monocular Scene Flow Estimation in the Wild, CVPR2025. [[Paper](https://arxiv.org/abs/2501.10357) | [Project](https://research.nvidia.com/labs/lpr/zero_msf//)]
