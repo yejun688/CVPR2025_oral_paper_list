@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-29 19:51:05
+ * @LastEditTime: 2025-04-29 20:11:54
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -248,4 +248,32 @@
 - From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons, CVPR2025. [Paper](https://arxiv.org/abs/2412.08442)]
 
 
-- Temporal Alignment-Free Video Matching for Few-shot Action Recognition, CVPR2025. [[Paper](https://arxiv.org/abs/2504.05956) | [Project](https://slotcontrast.github.io/) | [Code](https://github.com/leesb7426/TEAM)]
+- Language-Guided Image Tokenization for Generation, CVPR2025. [[Paper](https://arxiv.org/abs/2412.05796) | [Project](https://kaiwenzha.github.io/textok/)]
+
+
+- DreamRelation: Bridging Customization and Relation Generation, CVPR2025. [[Paper](https://arxiv.org/abs/2410.23280) | [Project](https://shi-qingyu.github.io/DreamRelation.github.io/) | [Code](https://github.com/Shi-qingyu/DreamRelation)]
+
+
+- GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skills, CVPR2025. [[Paper](https://arxiv.org/abs/2504.04191) | [Project](https://jiemingcui.github.io/grove//) | [Code](https://github.com/jiemingcui/GROVE-pytorch)]
+
+
+- Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning, CVPR2025.
+
+
+- DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution, CVPR2025. [[Paper](https://arxiv.org/abs/2410.11666) |[Code](https://github.com/yanzq95/DORNet)]
+
+
+- Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, CVPR2025.
+
+
+- Learned Binocular-Encoding Optics for RGBD Imaging Using Joint Stereo and Focus Cues, CVPR2025.[[Project](liangxunou.github.io/25liulearned/)]
+
+
+- Camera resection from known line pencils and a radially distorted scanline, CVPR2025.
+
+
+- Opportunistic Single-Photon Time of Flight, CVPR2025.
+
+- DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models, CVPR2025. [Paper](https://arxiv.org/abs/2503.01645)]
+
+
