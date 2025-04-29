@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-04-29 20:48:34
+ * @LastEditTime: 2025-04-29 20:57:21
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -317,3 +317,8 @@
 
 - Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval, CVPR2025.
 
+
+
+## Acknowledgements
+
+We would like to express our gratitude for the code repository provided in [cvpr25_oral_gpu_info](https://github.com/kxhit/cvpr25_oral_gpu_info).
