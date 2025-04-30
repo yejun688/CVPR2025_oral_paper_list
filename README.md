@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-05-01 02:50:42
+ * @LastEditTime: 2025-05-01 02:58:04
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -81,7 +81,7 @@
 
 
 
-- Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.01774) | [Project](https://research.nvidia.com/labs/toronto-ai/difix3d/) [Code](https://github.com/nv-tlabs/Difix3D)]
+- Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.01774) | [Project](https://research.nvidia.com/labs/toronto-ai/difix3d/) | [Code](https://github.com/nv-tlabs/Difix3D)]
 
 
 - DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.18590) | [Project](https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/)]
