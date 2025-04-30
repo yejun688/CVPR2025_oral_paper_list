@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-05-01 02:26:08
+ * @LastEditTime: 2025-05-01 02:42:45
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -114,14 +114,15 @@
 
 
 
-- Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.09695) | [Project](https://opa-dpo.github.io/) | [Code](https://github.com/zhyang2226/OPA-DPO)]
+- OPA-DPO: Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.09695) | [Project](https://opa-dpo.github.io/) | [Code](https://github.com/zhyang2226/OPA-DPO)]
 
 
 
 - Minority-Focused Text-to-Image Generation via Prompt Optimization, CVPR 2025. [[Paper](https://arxiv.org/abs/2410.07838) | [Code](https://github.com/soobin-um/MinorityPrompt)]
 
 
-- Autoregressive Distillation of Diffusion Transformers, CVPR 2025. [[Code](https://github.com/alsdudrla10/ARD)]
+- Autoregressive Distillation of Diffusion Transformers, CVPR 2025. [[Paper](https://arxiv.org/abs/2504.11295) | [Code](https://github.com/alsdudrla10/ARD)]
+
 
 
 - Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.08269) | [Code](https://github.com/April-yy/Adv-CPG)]
