@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-05-01 02:58:04
+ * @LastEditTime: 2025-05-02 20:18:46
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -215,7 +215,7 @@
 - MEGA: Masked Generative Autoencoder for Human Mesh Recovery, CVPR 2025. [[Paper](https://arxiv.org/abs/2405.18839)]
 
 
-- Descriptor-In-Pixel : Point-Feature Tracking for Pixel Processor Arraysr, CVPR 2025.
+- Descriptor-In-Pixel : Point-Feature Tracking for Pixel Processor Arraysr, CVPR 2025. [[Project](https://lauriebose.github.io/DIP//)]
 
 
 - Temporally Consistent Object-Centric Learning by Contrasting Slots, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.14295) | [Project](https://slotcontrast.github.io/) | [Code](https://github.com/martius-lab/slotcontrast)]
