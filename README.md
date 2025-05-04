@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-05-02 20:18:46
+ * @LastEditTime: 2025-05-04 17:26:53
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -148,7 +148,7 @@
 - Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.02357)  | [Code](https://github.com/zzc-1998/Q-Eval)]
 
 
-- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detectort, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.20188) | [Code](https://github.com/CHELSEA234/M2F2_Det)]
+- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detectort, CVPR 2025.  [[Paper](https://arxiv.org/abs/2503.20188) | [Code](https://github.com/CHELSEA234/M2F2_Det)]
 
 
 - Exploring CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation, CVPR 2025. [[Paper](https://arxiv.org/pdf/2503.20826) | [Code](https://github.com/zwyang6/ExCEL)]
@@ -224,7 +224,7 @@
 - Temporal Alignment-Free Video Matching for Few-shot Action Recognition, CVPR 2025. [[Paper](https://arxiv.org/abs/2504.05956) | [Project](https://slotcontrast.github.io/) | [Code](https://github.com/leesb7426/TEAM)]
 
 
-- One Category One Prompt: Dataset Distillation using Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/pdf/2403.07142v1)]
+- One Category One Prompt: Dataset Distillation using Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/pdf/2403.07142v1) | [Code] (https://github.com/mint-vu/D3M) ]
 
 
 - IceDiff: High Resolution and High-Quality Sea Ice Forecasting with Generative Diffusion Prior, CVPR 2025. [[Paper](https://arxiv.org/abs/2410.09111)]
@@ -264,19 +264,17 @@
 - Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, CVPR 2025.
 
 
-
 - Learned Binocular-Encoding Optics for RGBD Imaging Using Joint Stereo and Focus Cues, CVPR 2025.[[Project](liangxunou.github.io/25liulearned/)]
 
 
 
-- Camera resection from known line pencils and a radially distorted scanline, CVPR 2025.
-
+- Camera resection from known line pencils and a radially distorted scanline, CVPR 2025. [[Code](https://github.com/jdibenes/pmd)]
 
 
 - Opportunistic Single-Photon Time of Flight, CVPR 2025.
 
-- DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.01645)]
 
+- DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.01645)]
 
 
 - UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming, CVPR 2025. [[Paper](https://arxiv.org/abs/2307.16375)]
