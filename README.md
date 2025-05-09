@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-05-09 15:07:45
+ * @LastEditTime: 2025-05-10 01:18:52
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -261,7 +261,7 @@
 
 
 
-- Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, CVPR 2025.
+- Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, CVPR 2025. [[Paper](https://arxiv.org/abs/2505.04788) | [Code] (https://github.com/WU-CVGL/GlobustVP) ]
 
 
 - Learned Binocular-Encoding Optics for RGBD Imaging Using Joint Stereo and Focus Cues, CVPR 2025.[[Project](liangxunou.github.io/25liulearned/)]
