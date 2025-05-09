@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-05-05 03:14:12
+ * @LastEditTime: 2025-05-09 15:04:02
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -249,11 +249,11 @@
 
 
 
-- GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skills, CVPR 2025. [[Paper](https://arxiv.org/abs/2504.04191) | [Project](https://jiemingcui.github.io/grove//) | [Code](https://github.com/jiemingcui/GROVE-pytorch)]
+- GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skills, CVPR 2025. [[Paper](https://arxiv.org/abs/2504.04191) | [Project](https://jiemingcui.github.io/grove/) | [Code](https://github.com/jiemingcui/GROVE-pytorch)]
 
 
 
-- Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning, CVPR 2025.
+- Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning, CVPR 2025. [[Project](https://vision.cs.utexas.edu/projects/ViewpointRosetta/)]
 
 
 
@@ -328,7 +328,7 @@
 - SEAL: Semantic Attention Learning for Long Video Representation, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.01798)]
 
 
-- Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval, CVPR 2025.
+- Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval, CVPR 2025. [[Paper](https://arxiv.org/abs/2504.02397)]
 
 
 
