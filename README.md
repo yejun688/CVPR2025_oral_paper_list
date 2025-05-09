@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-05-09 15:04:02
+ * @LastEditTime: 2025-05-09 15:07:45
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -293,7 +293,7 @@
 - Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.04639)]
 
 
-- Time of the Flight of the Gaussians:Fast and Accurate Dynamic Time-of-Flight Radiance Field, CVPR 2025. [[Paper](https://ranrandy.github.io/data/research/2024-11-totfotg_tmp.pdf)]
+- Time of the Flight of the Gaussians:Fast and Accurate Dynamic Time-of-Flight Radiance Field, CVPR 2025. [[Paper](https://ranrandy.github.io/data/research/2024-11-totfotg_tmp.pdf) | [Project](https://visual.cs.brown.edu/projects/gftorf-webpage/)]
 
 
 - Zero-Shot Monocular Scene Flow Estimation in the Wild, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.10357) | [Project](https://research.nvidia.com/labs/lpr/zero_msf/)]
