@@ -293,7 +293,7 @@
 - Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.04639)]
 
 
-- Time of the Flight of the Gaussians:Fast and Accurate Dynamic Time-of-Flight Radiance Field, CVPR 2025. [[Paper](https://ranrandy.github.io/data/research/2024-11-totfotg_tmp.pdf) | [Project](https://visual.cs.brown.edu/projects/gftorf-webpage/)]
+- Time of the Flight of the Gaussians:Fast and Accurate Dynamic Time-of-Flight Radiance Field, CVPR 2025. [[Paper](https://ranrandy.github.io/data/research/2024-11-totfotg_tmp.pdf) | [Project](https://visual.cs.brown.edu/projects/gftorf-webpage/)  | [Code](https://github.com/brownvc/gftorf)]
 
 
 - Zero-Shot Monocular Scene Flow Estimation in the Wild, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.10357) | [Project](https://research.nvidia.com/labs/lpr/zero_msf/)]
