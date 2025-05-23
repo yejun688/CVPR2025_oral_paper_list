@@ -2,7 +2,7 @@
  * @Author: yejun688 1548622388@qq.com
  * @Date: 2025-04-13 21:02:12
  * @LastEditors: yejun688 1548622388@qq.com
- * @LastEditTime: 2025-05-17 01:58:38
+ * @LastEditTime: 2025-05-23 15:42:42
  * @FilePath: /CVPR2025_Oral_Paper_Lists/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -30,7 +30,7 @@
 
 
 
-- Multi-view Reconstruction via SfM-guided Monocular Depth Estimation, CVPR 2025. [[Paper](https://arxiv.org/pdf/2503.14483) | [Project](https://zju3dv.github.io/murre/) | [Code](https://github.com/ueoo/FluidNexus)]
+- Multi-view Reconstruction via SfM-guided Monocular Depth Estimation, CVPR 2025. [[Paper](https://arxiv.org/pdf/2503.14483) | [Project](https://zju3dv.github.io/murre/) | [Code](https://github.com/zju3dv/Murre)]
 
 
 
@@ -181,7 +181,7 @@
 - LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping, CVPR 2025. [[Paper](https://arxiv.org/abs/2504.08902) | [Project](https://lookingglass-lpw.github.io/)]
 
 
-- LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions, CVPR 2025. [[Paper](https://www.arxiv.org/abs/2411.16760) |[Code](https://github.com/NightMachinery/LibraGrad)]
+- LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions, CVPR 2025. [[Paper](https://www.arxiv.org/abs/2411.16760) | [Code](https://github.com/NightMachinery/LibraGrad)]
 
 
 - Do We Always Need the Simplicity Bias? Looking for Optimal Inductive Biases in the Wild, CVPR 2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://arxiv.org/abs/2503.10065)]
@@ -287,7 +287,7 @@
 - Enhancing Diversity for Data-free Quantization, CVPR 2025.
 
 
-- TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.06011) |[Code](https://github.com/Melon-Xu/TopoCellGen)]
+- TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.06011) | [Code](https://github.com/Melon-Xu/TopoCellGen)]
 
 
 - Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.04639)]
@@ -319,7 +319,7 @@
 - Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens, CVPR 2025. [[Paper](https://arxiv.org/abs/2504.14666) | [Project](https://ddt-llama.github.io/)]
 
 
-- Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding, CVPR 2025.
+- Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding, CVPR 2025.  [[Paper](https://arxiv.org/abs/2505.16652) | [Project](https://mllms-farsight.github.io/) | [Code](https://github.com/FeilongTangmonash/FarSight)]
 
 
 - Towards Vision Language Models For Extra-Long Video Understanding, CVPR 2025.
