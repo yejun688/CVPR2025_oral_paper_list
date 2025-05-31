@@ -281,7 +281,7 @@
 
 
 
-- Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.06457) |[Code](https://github.com/WeiDai-David/2025CVPR_GGEUR)]
+- Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.06457) | [Code](https://github.com/WeiDai-David/2025CVPR_GGEUR)]
 
 
 - Enhancing Diversity for Data-free Quantization, CVPR 2025.
