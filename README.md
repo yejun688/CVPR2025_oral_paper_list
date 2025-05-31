@@ -60,6 +60,9 @@
 
 
 - Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.01423) | [Code](https://github.com/hustvl/LightningDiT)]
+  
+
+- The PanAf-FGBG Dataset: Understanding the Impact of Backgrounds in Wildlife Behaviour Recognition, CVPR 2025. [[Paper](https://arxiv.org/abs/2502.21201) | [Project](https://obrookes.github.io/panaf-fgbg.github.io/)]
 
 
 - Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.04431) | [Project](https://foundationvision.github.io/infinity.project/) | [Code](https://github.com/FoundationVision/Infinity)]
