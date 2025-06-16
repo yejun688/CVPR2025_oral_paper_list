@@ -147,7 +147,7 @@
 - Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.02357)  | [Code](https://github.com/zzc-1998/Q-Eval)]
 
 
-- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detectort, CVPR 2025.  [[Paper](https://arxiv.org/abs/2503.20188) | [Code](https://github.com/CHELSEA234/M2F2_Det)]
+- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector, CVPR 2025.  [[Paper](https://arxiv.org/abs/2503.20188) | [Code](https://github.com/CHELSEA234/M2F2_Det)]
 
 
 - Exploring CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation, CVPR 2025. [[Paper](https://arxiv.org/pdf/2503.20826) | [Code](https://github.com/zwyang6/ExCEL)]
@@ -184,9 +184,6 @@
 
 
 - Do We Always Need the Simplicity Bias? Looking for Optimal Inductive Biases in the Wild, CVPR 2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://arxiv.org/abs/2503.10065)]
-
-
-- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.20188)]
 
 
 - CleanDIFT: Diffusion Features without Noise, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.03439) | [Project](https://compvis.github.io/cleandift/) | [Code](https://github.com/CompVis/cleandift)]
