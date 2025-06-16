@@ -68,12 +68,10 @@
 - Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.04431) | [Project](https://foundationvision.github.io/infinity.project/) | [Code](https://github.com/FoundationVision/Infinity)]
 
 
-
 - Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing, CVPR 2025. [[Paper](https://arxiv.org/abs/2407.01521) | [Project](https://daps-inverse-problem.github.io/) | [Code](https://github.com/zhangbingliang2019/DAPS)]
 
 
 - MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.06974) | [Project](https://mv-dust3rp.github.io/) | [Code](https://github.com/facebookresearch/mvdust3r)]
-
 
 
 - TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.19901) | [Project](https://liangpan99.github.io/TokenHSI/) | [Code](https://github.com/liangpan99/TokenHSI)]
@@ -90,9 +88,7 @@
 - DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.18590) | [Project](https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/)]
 
 
-
 - FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.04720) | [Project](https://yuegao.me/FluidNexus/) | [Code](https://github.com/ueoo/FluidNexus)]
-
 
 
 - OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation, CVPR 2025. [[Paper](https://arxiv.org/pdf/2411.18499) | [Project](https://opening-benchmark.github.io/) | [Code](https://github.com/LanceZPF/OpenING)]
@@ -160,7 +156,7 @@
 - LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.16843)]
 
 
-- FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity, CVPR 2025. [[Paper](https://www.cs.emory.edu/~jyang71/files/fedspa.pdf)]
+- FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity, CVPR 2025. [[Paper](https://www.cs.emory.edu/~jyang71/files/fedspa.pdf)]
 
 
 - Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.14171) | [Project](https://vision-x-nyu.github.io/thinking-in-space.github.io/)  | [Code](https://github.com/vision-x-nyu/thinking-in-space)]
@@ -169,7 +165,7 @@
 - Video-XL Family: Efficient VLMs for Extremely Long Video Understanding, CVPR 2025. [[Paper](https://arxiv.org/pdf/2409.14485)| [Code](https://github.com/VectorSpaceLab/Video-XL)]
 
 
-- Neural Inverse Rendering from Propagating Light , CVPR 2025. [[Paper](https://arxiv.org/2404.06493v2)]
+- Neural Inverse Rendering from Propagating Light, CVPR 2025. [[Paper](https://arxiv.org/2404.06493v2)]
 
 
 - MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision, CVPR 2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://wangrc.site/MoGePage/) | [Code](https://github.com/microsoft/moge)]
@@ -178,7 +174,7 @@
 - Motion Prompting: Controlling Video Generation with Motion Trajectories, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.02700) | [Project](https://motion-prompting.github.io/)]
 
 
-- Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise, CVPR 2025 . [[Paper](https://arxiv.org/abs/2501.08331) | [Project](https://eyeline-research.github.io/Go-with-the-Flow/) | [Code](https://github.com/Eyeline-Research/Go-with-the-Flow)]
+- Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.08331) | [Project](https://eyeline-research.github.io/Go-with-the-Flow/) | [Code](https://github.com/Eyeline-Research/Go-with-the-Flow)]
 
 
 - LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping, CVPR 2025. [[Paper](https://arxiv.org/abs/2504.08902) | [Project](https://lookingglass-lpw.github.io/)]
@@ -190,20 +186,19 @@
 - Do We Always Need the Simplicity Bias? Looking for Optimal Inductive Biases in the Wild, CVPR 2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://arxiv.org/abs/2503.10065)]
 
 
-- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector
-, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.20188)]
+- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.20188)]
 
 
 - CleanDIFT: Diffusion Features without Noise, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.03439) | [Project](https://compvis.github.io/cleandift/) | [Code](https://github.com/CompVis/cleandift)]
 
 
-- Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather, CVPR 2025.
+- Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather, CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Towards_Explicit_Geometry-Reflectance_Collaboration_for_Generalized_LiDAR_Segmentation_in_Adverse_CVPR_2025_paper.pdf)]
 
 
 - DiffFNO: Diffusion Fourier Neural Operator, CVPR 2025. [[Paper](https://arxiv.org/abs/2411.09911) | [Project](https://jasonliu2024.github.io/difffno-diffusion-fourier-neural-operator/)]
 
 
-- Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining, CVPR 2025
+- Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining, CVPR 2025. [[Paper](https://arxiv.org/abs/2505.16811)]
 
 
 - CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner, CVPR 2025. [[Paper](https://arxiv.org/pdf/2405.14979) | [Project](https://craftsman3d.github.io/) | [Code](https://github.com/wyysf-98/CraftsMan3D)]
@@ -236,7 +231,7 @@
 - Efficient Test-time Adaptive Object Detection via Sensitivity-Guided Pruning, CVPR 2025. [[Paper](https://xueyangfu.github.io/paper/2025/SGP_CVPR_25.pdf)]
 
 
-- Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation, CVPR 2025.
+- Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation, CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Cai_Keep_the_Balance_A_Parameter-Efficient_Symmetrical_Framework_for_RGBX_Semantic_CVPR_2025_paper.pdf)]
 
 
 - Identifying and Mitigating Position Bias of Multi-image Vision-Language Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.13792)]
@@ -274,14 +269,13 @@
 - Camera resection from known line pencils and a radially distorted scanline, CVPR 2025. [[Code](https://github.com/jdibenes/pmd)]
 
 
-- Opportunistic Single-Photon Time of Flight, CVPR 2025.
+- Opportunistic Single-Photon Time of Flight, CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Nousias_Opportunistic_Single-Photon_Time_of_Flight_CVPR_2025_paper.pdf)]
 
 
 - DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.01645)]
 
 
 - UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming, CVPR 2025. [[Paper](https://arxiv.org/abs/2307.16375)]
-
 
 
 - Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.06457) | [Code](https://github.com/WeiDai-David/2025CVPR_GGEUR)]
@@ -296,7 +290,7 @@
 - Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.04639)]
 
 
-- Time of the Flight of the Gaussians:Fast and Accurate Dynamic Time-of-Flight Radiance Field, CVPR 2025. [[Paper](https://ranrandy.github.io/data/research/2024-11-totfotg_tmp.pdf) | [Project](https://visual.cs.brown.edu/projects/gftorf-webpage/)  | [Code](https://github.com/brownvc/gftorf)]
+- Time of the Flight of the Gaussians: Fast and Accurate Dynamic Time-of-Flight Radiance Field, CVPR 2025. [[Paper](https://ranrandy.github.io/data/research/2024-11-totfotg_tmp.pdf) | [Project](https://visual.cs.brown.edu/projects/gftorf-webpage/)  | [Code](https://github.com/brownvc/gftorf)]
 
 
 - Zero-Shot Monocular Scene Flow Estimation in the Wild, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.10357) | [Project](https://research.nvidia.com/labs/lpr/zero_msf/)]
@@ -325,7 +319,7 @@
 - Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding, CVPR 2025.  [[Paper](https://arxiv.org/abs/2505.16652) | [Project](https://mllms-farsight.github.io/) | [Code](https://github.com/FeilongTangmonash/FarSight)]
 
 
-- Towards Vision Language Models For Extra-Long Video Understanding, CVPR 2025.
+- Towards Vision Language Models For Extra-Long Video Understanding, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.18478) | [Code](https://github.com/VectorSpaceLab/Video-XL)]
 
 
 - SEAL: Semantic Attention Learning for Long Video Representation, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.01798)]
