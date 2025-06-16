@@ -275,6 +275,9 @@
 - DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.01645)]
 
 
+- DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution, CVPR 2025. [[Paper](https://arxiv.org/abs/2410.11666) | [Code](https://github.com/yanzq95/DORNet)]
+
+
 - UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming, CVPR 2025. [[Paper](https://arxiv.org/abs/2307.16375)]
 
 
