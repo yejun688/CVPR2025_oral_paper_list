@@ -297,7 +297,7 @@
 
 
 
-- DNF: Unconditional 4D Generation with Dictionary-based Neural Fields, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.05161) | [Project](https://xzhang-t.github.io/project/DNF/)]
+- DNF: Unconditional 4D Generation with Dictionary-based Neural Fields, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.05161) | [Project](https://xzhang-t.github.io/project/DNF/) | [Code](https://github.com/xzhang-t/DNF)]
 
 
 
