@@ -281,7 +281,7 @@
 - Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.06457) | [Code](https://github.com/WeiDai-David/2025CVPR_GGEUR)]
 
 
-- Enhancing Diversity for Data-free Quantization, CVPR 2025. [[Paper]([https://arxiv.org/abs/2503.04639](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Enhancing_Diversity_for_Data-free_Quantization_CVPR_2025_paper.pdf))]
+- Enhancing Diversity for Data-free Quantization, CVPR 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Enhancing_Diversity_for_Data-free_Quantization_CVPR_2025_paper.pdf)]
 
 
 - TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.06011) | [Code](https://github.com/Melon-Xu/TopoCellGen)]
