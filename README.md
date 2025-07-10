@@ -41,7 +41,7 @@
 
 
  
-- VGGT: Visual Geometry Grounded Transformer, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.11651) | [Project](https://vgg-t.github.io/) | [Code](https://github.com/facebookresearch/vggt)]
+- VGGT: Visual Geometry Grounded Transformer, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.11651) | [Project](https://vgg-t.github.io/) | [Code](https://github.com/facebookresearch/vggt)]  🏆🏆🏆
 
 
 
@@ -165,7 +165,7 @@
 - Video-XL Family: Efficient VLMs for Extremely Long Video Understanding, CVPR 2025. [[Paper](https://arxiv.org/pdf/2409.14485)| [Code](https://github.com/VectorSpaceLab/Video-XL)]
 
 
-- Neural Inverse Rendering from Propagating Light, CVPR 2025. [[Paper](https://arxiv.org/2404.06493v2)]
+- Neural Inverse Rendering from Propagating Light, CVPR 2025. [[Paper](https://arxiv.org/2404.06493v2) | [Project](https://anaghmalik.com/InvProp/) | [Code](https://github.com/benattal/neural-radiance-caching)] 🏆🏆🏆
 
 
 - MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision, CVPR 2025. [[Paper](https://arxiv.org/abs/2410.19115) | [Project](https://wangrc.site/MoGePage/) | [Code](https://github.com/microsoft/moge)]
