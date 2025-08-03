@@ -85,7 +85,7 @@
 - Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.01774) | [Project](https://research.nvidia.com/labs/toronto-ai/difix3d/) | [Code](https://github.com/nv-tlabs/Difix3D)]
 
 
-- DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.18590) | [Project](https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/)]
+- DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.18590) | [Project](https://research.nvidia.com/labs/toronto-ai/DiffusionRenderer/) | [Code](https://github.com/nv-tlabs/cosmos1-diffusion-renderer)]           ]
 
 
 - FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.04720) | [Project](https://yuegao.me/FluidNexus/) | [Code](https://github.com/ueoo/FluidNexus)]
