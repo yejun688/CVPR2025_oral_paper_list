@@ -134,7 +134,7 @@
 - Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models, CVPR 2025. [[Paper](https://arxiv.org/abs/2409.17146) | [Blog](https://allenai.org/blog/molmo)  | [Code](https://github.com/allenai/molmo)]
 
 
-- Continuous 3D Perception Model with Persistent State, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.12387) | [Project](https://cut3r.github.io/)  | [Code](https://github.com/CUT3R/CUT3R)]
+- CUT3R: Continuous 3D Perception Model with Continuous 3D Perception Model with Persistent State State, CVPR 2025. [[Paper](https://arxiv.org/abs/2501.12387) | [Project](https://cut3r.github.io/)  | [Code](https://github.com/CUT3R/CUT3R)]
 
 
 
