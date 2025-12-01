@@ -14,7 +14,7 @@
 
 
 
-- Alias-Free Latent Diffusion Models:Improving Fractional Shift Equivariance of Diffusion Latent Space, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.09419) | [Project](https://zhouyifan.net/AF-LDM-Page/) | [Code](https://github.com/SingleZombie/AFLDM)]
+- Alias-Free Latent Diffusion Models: Improving Fractional Shift Equivariance of Diffusion Latent Space, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.09419) | [Project](https://zhouyifan.net/AF-LDM-Page/) | [Code](https://github.com/SingleZombie/AFLDM)]
 
 
 
@@ -309,7 +309,7 @@
 
 
 
-- Removing Reflections from RAW Photos, CVPR 2025. [[Paper](https://arxiv.org/abs/2404.14414)]
+- Removing Reflections from RAW Photos, CVPR 2025. [[Paper](https://arxiv.org/abs/2404.14414) | [Project](https://erickee.com/reflections/cvpr2025.html)]
 
 
 
