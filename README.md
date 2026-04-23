@@ -322,7 +322,7 @@
 - Towards Vision Language Models For Extra-Long Video Understanding, CVPR 2025. [[Paper](https://arxiv.org/abs/2503.18478) | [Code](https://github.com/VectorSpaceLab/Video-XL)]
 
 
-- SEAL: Semantic Attention Learning for Long Video Representation, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.01798)]
+- SEAL: Semantic Attention Learning for Long Video Representation, CVPR 2025. [[Paper](https://arxiv.org/abs/2412.01798) | [Code](https://github.com/SEAL-lvu/SEAL)]
 
 
 - Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval, CVPR 2025. [[Paper](https://arxiv.org/abs/2504.02397)]
